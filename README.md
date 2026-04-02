@@ -60,4 +60,7 @@ SQL Queries – SQL scripts used to analyze the dataset
 Power BI Dashboard – Visualization dashboard created from the dataset
 Project Report – Detailed explanation of the analysis
 
+## 🏆 Certification
+Capstone Project - Awarded Grade A
+(Evaluated by Datamites)
 
